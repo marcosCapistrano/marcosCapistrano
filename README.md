@@ -1,2 +1,2 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosCapistrano)](https://github.com/anuraghazra/github-readme-stats)
-![Profile views](https://gpvc.arturio.dev/marcosCapistrano)
+Checkout my blog!
+https://portfolio-v3-three-smoky.vercel.app/
